@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{96C66933-7E85-4781-BED8-0C3A06B92F9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{96C66933-7E85-4781-BED8-0C3A06B92F9B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Aprsentação", "1 - Aprsentação", "{78A7E9C3-B864-4157-BBC7-B21A51EA1644}"
 EndProject
@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Entidades", "4 - Entida
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5- Helpers", "5- Helpers", "{80D69BDD-3DEA-4D7F-BD2F-9DA56BAE2F7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{7EA6BC0C-AC42-468F-B5DB-1A42A7E93124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{7EA6BC0C-AC42-468F-B5DB-1A42A7E93124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Interfaces\Domain.csproj", "{50F88957-0CA2-4A3D-A50F-253F7412E853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Interfaces\Domain.csproj", "{50F88957-0CA2-4A3D-A50F-253F7412E853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{41A2EA30-885E-4D0F-B766-1240E9291A73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{41A2EA30-885E-4D0F-B766-1240E9291A73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{6EBB1ACE-F5A3-467B-8A94-11DDB9C89DB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helpers", "Helpers\Helpers.csproj", "{6EBB1ACE-F5A3-467B-8A94-11DDB9C89DB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

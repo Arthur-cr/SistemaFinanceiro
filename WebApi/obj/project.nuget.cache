@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "txl8y+mlH2zHVbjCRtVTW36K2vWiHgNCiw56A95kOiurnMRIfbMfIu6JNps0pNLICOrIF/AKtCnlx1gEt3YlXg==",
+  "dgSpecHash": "Vt1CpDugoaHD3JGedlhxUZyZuiQYicbe7s2e0/d0jMFflRR9zEF7HO3G09FS7/0lPRHClbf6g0PfgJvDCLfa3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthu\\Documents\\Temp\\ProjetoS.F\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\arthu\\Documents\\Sistema Financeiro\\ProjetoS.F\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\arthu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

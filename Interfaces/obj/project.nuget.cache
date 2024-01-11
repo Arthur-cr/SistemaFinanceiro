@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4KaGJxIqOJdAlxiMA6oQT9ZcpXJatH/DeO9mZwYd1XS+qBGgJEFtHjbPC5KkBjStkbuvjkLPRV46SafhF86xZA==",
+  "dgSpecHash": "6eh95RkvcdYW758faz5a5gpgC4tHYVk75COtBGyhFNNNyxOT6HgerFTkgZhbiN0qM40kySrl62bIJ3av+D3soA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthu\\Documents\\Temp\\ProjetoS.F\\Interfaces\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\arthu\\Documents\\Sistema Financeiro\\ProjetoS.F\\Interfaces\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
