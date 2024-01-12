@@ -11,3 +11,18 @@ C:\Users\arthu\Documents\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\
 C:\Users\arthu\Documents\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\refint\Helpers.dll
 C:\Users\arthu\Documents\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.pdb
 C:\Users\arthu\Documents\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\ref\Helpers.dll
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\bin\Debug\net8.0\Helpers.deps.json
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\bin\Debug\net8.0\Helpers.dll
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\bin\Debug\net8.0\Helpers.pdb
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.AssemblyInfo.cs
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.sourcelink.json
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.dll
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\refint\Helpers.dll
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.pdb
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\ref\Helpers.dll
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\bin\Debug\net8.0\Helpers.runtimeconfig.json
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\Helpers\obj\Debug\net8.0\Helpers.genruntimeconfig.cache
