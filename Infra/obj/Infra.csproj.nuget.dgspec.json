@@ -209,7 +209,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\arthu\\Documents\\- Arthur -\\Sistema Financeiro\\ProjetoS.F\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\arthu\\Documents\\- Arthur -\\Sistema Financeiro\\ProjetoS.F\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
