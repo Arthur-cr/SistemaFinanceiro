@@ -11,5 +11,14 @@ namespace Infra.Repositorio
 {
     public class RepositorioDespesa : RepositoryGenerics<Despesa>, InterfaceDespesa
     {
+        public Task<IList<Despesa>> ListDespesaUsuario(string emailUsuario)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<IList<Despesa>> ListDespesaUsuarioNaoPagaMesesAnteriores(string emailUsuario)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
