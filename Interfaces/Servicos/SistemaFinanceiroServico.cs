@@ -10,11 +10,11 @@ using System.Threading.Tasks;
 
 namespace Domain.Servicos
 {
-    public class SistemaFinanceiro : ISistemaFinanceiro
+    public class SistemaFinanceiroServico : ISistemaFinanceiroServico
     {
         private readonly InterfaceSistemaFinanceiro _interfaceSistemaFinanceiro;
 
-        public SistemaFinanceiro(InterfaceSistemaFinanceiro interfaceSistemaFinanceiro)
+        public SistemaFinanceiroServico(InterfaceSistemaFinanceiro interfaceSistemaFinanceiro)
         {
             _interfaceSistemaFinanceiro = interfaceSistemaFinanceiro;
         }

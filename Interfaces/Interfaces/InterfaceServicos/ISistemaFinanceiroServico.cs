@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.InterfaceServicos
 {
-    public interface ISistemaFinanceiro
+    public interface ISistemaFinanceiroServico
     {
         Task AdicionarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro);
 
