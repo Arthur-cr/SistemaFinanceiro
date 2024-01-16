@@ -26,7 +26,13 @@ namespace Entities.Entidades
 
         [ForeignKey("Categoria")]
         [Column(Order = 1)]
+        public int IdSistema { get; set; }
         public int IdCategoria { get; set; }
-        public virtual Categoria Categoria { get; set; }
+        public virtual Despesa Categoria { get; set; }
+
+        public object ValidarPropriedadeStrign(string nome, string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
