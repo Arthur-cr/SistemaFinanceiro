@@ -68,3 +68,6 @@
 /WebApi/obj/Debug/net8.0/WebApi.dll
 /WebApi/obj/Debug/net8.0/WebApi.pdb
 /WebApi/obj/Debug/net8.0/WebApi.sourcelink.json
+/Infra/obj/Debug/net8.0/Infra.AssemblyInfoInputs.cache
+/Helpers/obj/Debug/net8.0/Helpers.AssemblyInfoInputs.cache
+/Helpers/obj/Debug/net8.0/Helpers.AssemblyInfo.cs
