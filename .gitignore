@@ -3,3 +3,6 @@
 ################################################################################
 
 *.vsidx
+/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Interfaces/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
