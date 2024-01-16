@@ -38,7 +38,7 @@ namespace Infra.Configuracao
 
         public string ObterStringConexao()
         {
-            return "Data Source=DESKTOP-6A1F82A;Initial Catalog=Arthur.SistemaFinanceiro;Integrated Security=True;TrustServerCertificate=True";
+            return "Data Source=DESKTOP-6A1F82A;Initial Catalog=SistemaFinanceiro;Integrated Security=True;TrustServerCertificate=True";
         }
 
     }
