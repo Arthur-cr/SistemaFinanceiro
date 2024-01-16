@@ -192,3 +192,4 @@ C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\WebApi\bin\Deb
 C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\WebApi\bin\Debug\net8.0\Infra.pdb
 C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\WebApi\bin\Debug\net8.0\Domain.pdb
 C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\WebApi\bin\Debug\net8.0\Entities.pdb
+C:\Users\arthu\Documents\- Arthur -\Sistema Financeiro\ProjetoS.F\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
