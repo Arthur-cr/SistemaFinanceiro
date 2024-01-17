@@ -125,3 +125,9 @@
 /Helpers/obj/project.nuget.cache
 /Helpers/obj/Debug/net8.0/Helpers.AssemblyInfoInputs.cache
 /Helpers/obj/Debug/net8.0/Helpers.AssemblyInfo.cs
+/WebApi/appsettings.json
+/WebApi/obj/WebApi.csproj.nuget.g.props
+/Infra/obj/Infra.csproj.nuget.g.props
+/Interfaces/obj/Domain.csproj.nuget.g.props
+/Entities/obj/Entities.csproj.nuget.g.props
+/Helpers/obj/Helpers.csproj.nuget.g.props
