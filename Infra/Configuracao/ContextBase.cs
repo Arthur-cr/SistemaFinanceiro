@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Infra.Configuracao
 {
@@ -38,7 +39,8 @@ namespace Infra.Configuracao
 
         public string ObterStringConexao()
         {
-            return "Data Source=DESKTOP-6A1F82A;Initial Catalog=SistemaFinanceiro;Integrated Security=True;TrustServerCertificate=True";
+            //return "Data Source=DESKTOP-6A1F82A;Initial Catalog=SistemaFinanceiro;Integrated Security=True;TrustServerCertificate=True";
+            return "Data Source = DESKTOP-6A1F82A; Initial Catalog = SistemaFinanceiro; Integrated Security = True; TrustServerCertificate = True";
         }
 
     }
