@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Infra.Repositorio
 {
-    public class RepositorioCategorioa : RepositoryGenerics<Despesa>, InterfaceCategoria
+    public class RepositorioCategorioa : RepositoryGenerics<Categoria>, InterfaceCategoria
     {
         private readonly DbContextOptions<ContextBase> _OptionBuilder;
 
@@ -20,7 +20,7 @@ namespace Infra.Repositorio
             _OptionBuilder = new DbContextOptions<ContextBase>();
         }
 
-        public async Task<IList<Despesa>> ListaCategoriasUsuario(string emailUsuario)
+        public async Task<IList<Categoria>> ListaCategoriasUsuario(string emailUsuario)
         {
             using (var banco = new ContextBase(_OptionBuilder))
             {

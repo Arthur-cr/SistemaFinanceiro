@@ -34,7 +34,9 @@ namespace Entities.Notificacoes
                 });
                 return false;
             }
-            return false;
+
+            return true;
+
         }
 
         public bool ValidaPropriedadeInt (int valor, string nomePropriedade)
@@ -48,7 +50,9 @@ namespace Entities.Notificacoes
                 });
                 return false;
             }
-            return false;
+
+            return true;
+
         }
 
     }

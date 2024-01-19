@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.ICategoria
 {
-    public interface InterfaceCategoria : InterfaceGeneric<Despesa>
+    public interface InterfaceCategoria : InterfaceGeneric<Categoria>
     {
-        Task<IList<Despesa>> ListaCategoriasUsuario(string emailUsuario);
+        Task<IList<Categoria>> ListaCategoriasUsuario(string emailUsuario);
     }
 }

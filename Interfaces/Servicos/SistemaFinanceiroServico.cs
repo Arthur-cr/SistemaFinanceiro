@@ -19,7 +19,7 @@ namespace Domain.Servicos
             _interfaceSistemaFinanceiro = interfaceSistemaFinanceiro;
         }
 
-        public async Task AdicionarSistemaFinanceiro(Entities.Entidades.SistemaFinanceiro sistemaFinanceiro)
+        public async Task AdicionarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro)
         {
             var valido = sistemaFinanceiro.ValidarPropriedadeString(sistemaFinanceiro.Nome, "Nome");
 
@@ -38,7 +38,7 @@ namespace Domain.Servicos
             }
         }
 
-        public async Task AtualizarSistemaFinanceiro(Entities.Entidades.SistemaFinanceiro sistemaFinanceiro)
+        public async Task AtualizarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro)
         {
             var valido = sistemaFinanceiro.ValidarPropriedadeString(sistemaFinanceiro.Nome, "Nome");
 

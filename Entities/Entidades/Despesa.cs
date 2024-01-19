@@ -15,8 +15,8 @@ namespace Entities.Entidades
         public int Mes { get; set; }
         public int Ano { get; set; }
 
-        public EnumTipoDespesa TipoDespesa { get; set;}
-        public  DateTime DataCadastro { get; set; }
+        public EnumTipoDespesa TipoDespesa { get; set; }
+        public DateTime DataCadastro { get; set; }
         public DateTime DataAlteracao { get; set; }
         public DateTime DataPagamento { get; set; }
         public DateTime DataVenvimento { get; set; }
@@ -30,9 +30,9 @@ namespace Entities.Entidades
         public int IdCategoria { get; set; }
         public virtual Despesa Categoria { get; set; }
 
-        public object ValidarPropriedadeStrign(string nome, string v)
-        {
-            throw new NotImplementedException();
-        }
+        //public object ValidarPropriedadeStrign(string nome, string v)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

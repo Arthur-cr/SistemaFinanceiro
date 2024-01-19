@@ -9,8 +9,8 @@ namespace Domain.Interfaces.InterfaceServicos
 {
     public interface ICategoriaServico
     {
-        Task AdicionarCategoria(Despesa categoria);
+        Task AdicionarCategoria(Categoria categoria);
 
-        Task AtualizarCategoria(Despesa categoria);
+        Task AtualizarCategoria(Categoria categoria);
     }
 }
