@@ -3,6 +3,7 @@ using Infra.Configuracao;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Win32.SafeHandles;
 using System.Runtime.InteropServices;
+using System.Globalization;
 
 namespace Infra.Repositorio.Generics
 {
